@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Modul10</string>
+    <string name="title">Modul10</string>
+    <string name="description">Deskripsi</string>
+    <string name="category">Kategori</string>
+    <string name="submit">SUBMIT</string>
+    <string name="date">Date</string>
+</resources>
